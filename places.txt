@@ -2,3 +2,5 @@ which continents:
 Asia
 Europe
 
+America
+Australia
